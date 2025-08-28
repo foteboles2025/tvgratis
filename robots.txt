@@ -1,0 +1,24 @@
+# Bloqueio total e bots específicos
+User-agent: *
+Disallow: /
+
+User-agent: facebot
+Disallow: /
+User-agent: facebookexternalhit
+Disallow: /
+User-agent: bingbot
+Disallow: /
+User-agent: Googlebot
+Disallow: /
+User-agent: Googlebot-Image
+Disallow: /
+User-agent: Google-InspectionTool
+Disallow: /
+User-agent: Instagram
+Disallow: /
+User-agent: TelegramBot
+Disallow: /
+User-agent: telegrambot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
